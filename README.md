@@ -3,7 +3,7 @@ This project involved a comprehensive analysis of sales performance within the N
 The key aspects of the analysis include:
 
 
-# *Product Performance Analysis:*
+## *Product Performance Analysis:*
 
 * Identified top-selling products and their associated revenue contributions.
 * Analyzed sales trends for individual products over time.
