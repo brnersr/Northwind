@@ -16,9 +16,10 @@ The key aspects of the analysis include:
 
 *Regional Sales Analysis:*
 
-*Assessed sales performance across different regions.
-*Identified top-performing regions and analyzed their sales drivers.
-*Examined regional sales trends and patterns.
+* Assessed sales performance across different regions.
+* Identified top-performing regions and analyzed their sales drivers.
+* Examined regional sales trends and patterns.
 
 *Outcomes:*
+
 The analysis yielded valuable insights into product, customer, and regional sales performance, enabling a deeper understanding of the Northwind business landscape. 
